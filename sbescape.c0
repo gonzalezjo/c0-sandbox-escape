@@ -1,0 +1,7 @@
+#use <string> 
+
+int main() {
+  string x = "sandbox escape. actually pretty trivial";
+  
+  return 1;
+}
