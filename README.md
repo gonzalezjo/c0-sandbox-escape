@@ -1,2 +1,1 @@
-# cnaughty
-CMU C0 sandbox escape
+Sandbox escape for the C0 programming language.
